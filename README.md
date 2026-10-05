@@ -1,0 +1,1 @@
+This Week starts from Monday only. This Month starts from the 1st only. Older data stays in History and never carries into a new week/month total.
